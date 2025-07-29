@@ -75,7 +75,7 @@ Amethyst makes use of **just-in-time compilation**, or JIT, to provide usable sp
 (#) Only the first time.
 
 ### Enabling Increased Memory Limit
-In order for Amethyst to run even smoother, it's recommended to increase the RAM limit by enabling "Increased Memory Limit." You can enable it by installing this app with your favorite sideloading service. You will need to sign in with the Apple ID you used in AltStore/SideStore and press "Refresh" in the App-IDs tab. Choose the App-ID of Amethyst (or LiveContainer if you're using Amethyst in it) and press "Add Increased Memory Limit". After reinstalling Amethyst (or LiveContainer), you can see in the logs, or with tools like Antrag, if Increased Memory Limit has been enabled successfully. If not, try again.
+In order for Amethyst to run even smoother, it's recommended to increase the RAM limit by enabling "Increased Memory Limit." You can enable it by installing [this](https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/Entitlement.ipa) app with your favorite sideloading service. You will need to sign in with the Apple ID you used in AltStore/SideStore and press "Refresh" in the App-IDs tab. Choose the App-ID of Amethyst (or LiveContainer if you're using Amethyst in it) and press "Add Increased Memory Limit". After reinstalling Amethyst (or LiveContainer), you can see in the logs, or with tools like [Antrag](https://apps.apple.com/app/antrag/id6747074491), if Increased Memory Limit has been enabled successfully. If not, try again.
 
 ## Contributors
 Amethyst is amazing, and surprisingly stable, and it wouldn't be this way without the commmunity that helped and contribute to the project! Some notable names:
